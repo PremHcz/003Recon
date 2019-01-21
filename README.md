@@ -2,7 +2,7 @@
 
 This repository contains some of my scripts that i created to automate some recon processes.  
 It performs the following things;  
-1. Get subdomains of a domain    
+1. Get subdomains of a domain   ad  
 2. Filter out only online domains    
 3. Scan the domains for CRLF    
 4. Check for a CORS misconfiguration  

@@ -1,0 +1,6 @@
+app:
+  build:
+    image: codeship/app
+    dockerfile: Dockerfile
+  encrypted_env_file:
+    - env.encrypted
